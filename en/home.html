@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <link rel="stylesheet" href="../src/css/main.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+        <title>UP Newlands Homepage</title>
+        <script src="../src/js/slider.js"></script>
+        <script type="text/javascript" src="../src/js/main.js"></script>
+        <link rel="shortcut icon" href="../src/img/favicon.ico" type="image/vnd.microsoft.icon">
+    </head>
+    <body>
+        <header>
+            <nav class="main-nav">
+                <label for="check" class="menu-btn">
+                    <i class="fas fa-bars"></i>
+                </label>
+                <a href="index.html" class="logo"><img src="" alt=""/></a>
+                <ul class="navlinks">
+                    <li>
+                        <a href="#">What's New</a>
+                    </li>
+                    <li>
+                        <a href="#">Community</a>
+                    </li>
+                    <li>
+                        <a href="#">Safety</a>
+                    </li>
+                    <li>
+                        <a href="#">Disclaimer</a>
+                    </li>
+                    <li>
+                        <a href="#">Help</a>
+                    </li>
+                    <li>
+                        <a href="#">Wiki</a>
+                    </li>
+                    <li>
+                        <a href="#" class="contact">PLAY NOW!</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <div id="w980">
+            <div id="billboards-holder">
+                <div id="billboards" style="display: block">
+                    <a class="mySlides no-flash new return returnfree returnpaid" href="#" style="display: none"><img alt="Billboard 1" src="../src/img/woods-1.png"/></a>
+                    <a class="mySlides no-flash new return returnfree returnpaid" href="#" style="display: none"><img alt="Billboard 2" src="../src/img/woods-2.png"/></a>
+                    <a class="mySlides no-flash new return returnfree returnpaid" href="#" style="display: block">
+                        <img alt="Billboard 3" src="../src/img/woods-3.jpg"/></a>
+                </a>
+            </div>
+        </div>
+        <div id="billboard-nav">
+            <div id="indicators">
+                <div class="indicator no-flash" id="ind-scene">
+                    <a href="javascript:void(0);" class="dot" onclick='currentSlide(1)'>1</a>
+                </div>
+                <div class="indicator no-flash">
+                    <a href="javascript:void(0);" class="dot" onclick='currentSlide(2)'>2</a>
+                </div>
+                <div class="indicator no-flash">
+                    <a href="javascript:void(0);" class="dot" onclick='currentSlide(3)'>3</a>
+                </div>
+            </div>
+            <div id="membership-callout">
+                <a href="https://discord.gg/2JwJ7JjVeb" id="buy-membership">JOIN DISCORD NOW</a>
+            </div>
+        </div>
+        <div id="promo-blocks">
+            <div class="promo-block promo-block-left">
+                <div class="promo-image">
+                    <a href="#">
+                        <img src="../src/img/construction.png" alt="Echa un vistazo al NUEVO CATÁLOGO">
+                    </a>
+                </div>
+                <div class="promo-info">
+                    <div class="title">COME AND CELEBRATE
+                        <br>
+                        SAT 25 - FRI 01</div>
+                    <a class="cta trigger-video" href="#" id="trigger-14224">PLAY NOW</a>
+                    <div class="legal"><br>
+                        <em>this party contains exclusive items.<br>those items will not be delivered ever again in this game</em></div>
+                </div>
+            </div>
+            <div class="promo-block promo-block-right">
+                <div class="promo-block new return returnfree returnpaid ">
+                    <a href="·">
+                        <img src="../src/img/promobox-en.png">
+                    </a>
+                </div>
+            </div>
+            
+        </div>
+        <div id="promo-blocks-wrap">
+            <div id="promo-blocks2" style=""></div>
+        </div>
+        <div id="footer" class="en">
+            <div class="footer-top">
+                <div id="footer-logo"></div>
+                <div id="quicklinks">
+                    <div id="quicklinks-title" class="footer-title">Quick Links</div>
+                    <ul id="quicklinks-menu" class="footer-menu">
+                        <li>
+                            <a href="#" class="cpmenu">Help</a>
+                        </li>
+                        <li>
+                            <a href="#" class="cpmenu">Restore Password</a>
+                        </li>
+                        <li>
+                            <a href="#" class="cpmenu">Latest Codes</a>
+                        </li>
+                        <li>
+                            <a href="#" class="cpmenu">Meet your Team</a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="company">
+                    <div id="company-title" class="footer-title">Social Links</div>
+                    <ul id="company-menu" class="footer-menu">
+                        <li>
+                            <a href="#">Youtube</a>
+                        </li>
+                        <li>
+                            <a href="#">Twitter</a>
+                        </li>
+                        <li>
+                            <a href="#">Facebook</a>
+                        </li>
+                        <li>
+                            <a href="#">Server Status</a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="footer-buttons">
+                    <a id="btn-activate-card" class="footer-btn btn-activate" href="#">Activate Penguin</a>
+                    <a id="btn-parent-tools" class="footer-btn btn-parents" href="#">Parent Tools</a>
+                    <a id="btn-unlock-items" class="footer-btn btn-unlock" href="#">Unlock Items</a>
+                </div>
+                <div id="language-select">
+                    <div>
+                        <a class="top-level" tabindex="1" style="cursor: default">
+                            <span class="icon"></span><br/>
+                            <span class="label-select">Language Select</span>
+                            <select id="urlSelect" class="form-control" onchange="window.location = jQuery('#urlSelect option:selected').val();">
+                                <option>ENGLISH</option>
+                                <option value="http://127.0.0.1:5500/es/inicio.html">ESPAÑOL</option>
+                                <option value="https://www.facebook.com">PORTUGUÊS</option>
+                                <option value="https://www.twitter.com">FRANÇAIS</option>
+                            </select>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div id="legal">
+                    UP NewLands is an educational instance. We do not hold copyright for any of the files. We are not affiliated with The Walt Disney Company and/or the Disney Interactive Media Group. Assets are used for non-profit educational purposes only.<br>
+                    <a target="_blank" href="#">support@cpnewlands.com</a>
+                    <span>|</span>
+                    <a target="_blank" href="#">Terms of Use</a>
+                    <span>|</span>
+                    <a target="_blank" href="#">Privacy Policy</a>
+                    <span>|</span>
+                    <a target="_blank" href="#">Children's Online Privacy Policy</a>
+                    <span>|</span>
+                    <a target="_blank" href="#">Third Party Content Usage</a>
+                </div>
+            </div>
+        </div>
+        <script>
+            $('#SelectOption').bind('change', function () { // bind change event to select
+                var url = $(this).val(); // get selected value
+                if (url != '') { // require a URL
+                    window.location = url; // redirect
+                }
+                return false;
+            });
+        </script>
+        <link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"71db1ab9cf959ae6","version":"2022.6.0","r":1,"token":"14c13d60fb68428d8fa6f045c8409dbb","si":100}' crossorigin="anonymous"></script>
+    </body>
+</html>

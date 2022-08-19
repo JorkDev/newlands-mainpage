@@ -1,0 +1,447 @@
+#section-content {
+  width: 980px;
+  margin: -40px auto 0 auto;
+  background: transparent;
+}
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset {
+  margin-bottom: 20px;
+}
+a,
+p,
+ul,
+ol,
+li,
+img,
+span,
+strong,
+em {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  font: inherit;
+}
+.node-type-online-safety #section-content #zone-content-wrapper {
+  padding: 20px 0 0;
+  background-color: #22a3f4;
+}
+#section-content #zone-content-wrapper #zone-content {
+  background: #fff;
+}
+.container-12 .grid-12 {
+  width: 980px;
+}
+
+.safety-section-intro {
+  position: relative;
+  background: url("../img/video-bg.jpg") no-repeat 0 0;
+  background-position: bottom 10px right 0px;
+  height: 733px;
+  padding-top: 30px;
+  margin-bottom: -20px;
+}
+
+.safety-section {
+  background-color: #22a3f4;
+  margin-bottom: -10px;
+  text-align: center;
+}
+
+.safety-section-1,
+.safety-section-2,
+.safety-section-3,
+.safety-section-4,
+.safety-section-partners {
+  padding-bottom: 35px;
+  background: url("../img/panel-bg.gif") no-repeat 38px bottom;
+}
+.safety-section-2 {
+  padding-bottom: 0;
+}
+
+.safety-section-partners {
+  text-align: left;
+}
+
+.safety-section h1.safety-section-title,
+.safety-section h2.safety-section-title {
+  padding-bottom: 3px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+  color: #0052af;
+  font-family: "proxima_nova_bold", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 1;
+}
+
+.safety-section .safety-section-text {
+  color: #97acb8;
+  font-size: 14px;
+  padding: 0 65px;
+  font-family: "proxima_nova_semibold", Helvetica, Arial, sans-serif;
+}
+
+.safety-section-intro .safety-section-intro-quiz {
+  position: absolute;
+  top: 553px;
+  width: 100%;
+}
+
+.safety-section-intro .safety-section-intro-quiz .safety-quiz-text {
+  font-family: "proxima_nova_bold", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 515px;
+  margin-left: 180px;
+  color: #fff;
+  font-size: 14px;
+  text-align: left;
+  letter-spacing: -0.01em;
+  padding-top: 20px;
+}
+
+.safety-section-intro .safety-section-intro-quiz .safety-quiz-link-wrapper {
+  position: absolute;
+  right: 40px;
+  top: -3px;
+}
+
+.safety-section-intro .safety-section-intro-quiz .safety-quiz-link-wrapper {
+  position: absolute;
+  right: 40px;
+  top: 7px;
+}
+.safety-section-intro
+  .safety-section-intro-quiz
+  .safety-quiz-link-wrapper
+  a.safety-quiz-link {
+  display: -moz-inline-box;
+  display: inline-block;
+  zoom: 1;
+  font-family: "proxima_nova_bold", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  background: url("../img/button-shine-play.png") no-repeat center 0,
+    url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZTk5MSIvPjxzdG9wIG9mZnNldD0iMTAlIiBzdG9wLWNvbG9yPSIjZmZkYzRmIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZjYzAwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g);
+  background: url("../img/button-shine-play.png") no-repeat center 0,
+    -moz-linear-gradient(270deg, #ffe991 0, #ffdc4f 10%, #fc0 100%);
+  background: url("../img/button-shine-play.png") no-repeat center 0,
+    -webkit-linear-gradient(270deg, #ffe991 0, #ffdc4f 10%, #fc0 100%);
+  background: url("../img/button-shine-play.png") no-repeat center 0,
+    linear-gradient(-180deg, #ffe991 0, #ffdc4f 10%, #fc0 100%);
+  -moz-box-shadow: #b89300 0 4px 0, rgba(0, 0, 0, 0.2) 0 6px 0;
+  -webkit-box-shadow: #b89300 0 4px 0, rgb(0 0 0 / 20%) 0 6px 0;
+  box-shadow: #b89300 0 4px 0, rgb(0 0 0 / 20%) 0 6px 0;
+  height: 48px;
+  line-height: 48px;
+  padding: 0 10px;
+  box-sizing: border-box;
+  font-size: 24px;
+  color: #6e4e00;
+  text-decoration: none !important;
+  border: 2px solid #ffe991;
+  width: 172px;
+}
+
+.safety-section-intro
+  .safety-section-intro-quiz
+  .safety-quiz-link-wrapper
+  a.safety-quiz-link:hover {
+  background: url("../img/button-shine-play.png") no-repeat center -100px,
+    url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjEuMCIgeDI9IjAuNSIgeTI9IjAuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZTk5MSIvPjxzdG9wIG9mZnNldD0iMTAlIiBzdG9wLWNvbG9yPSIjZmZkYzRmIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZjYzAwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g");
+  background: url("../img/button-shine-play.png") no-repeat center -100px,
+    -moz-linear-gradient(90deg, #ffe991 0, #ffdc4f 10%, #fc0 100%);
+  background: url("../img/button-shine-play.png") no-repeat center -100px,
+    -webkit-linear-gradient(90deg, #ffe991 0, #ffdc4f 10%, #fc0 100%);
+  background: url("../img/button-shine-play.png") no-repeat center -100px,
+    linear-gradient(0deg, #ffe991 0, #ffdc4f 10%, #fc0 100%);
+  -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 0;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 0;
+  box-shadow: rgba(0, 0, 0, 0.2) 0 2px 0;
+  margin-top: 4px;
+}
+
+.safety-section-intro .safety-intro-quiz-counter .safety-quiz-counter {
+  left: 590px;
+  top: 20px;
+}
+
+.safety-section-intro .safety-intro-quiz-counter .safety-scroll-down {
+  top: 20px;
+}
+.safety-section-intro .safety-intro-quiz-counter .safety-quiz-counter,
+.safety-section-intro .safety-intro-quiz-counter .safety-scroll-down {
+  width: 370px;
+  position: absolute;
+}
+
+.safety-section-intro .safety-intro-quiz-counter span.safety-quiz-icon {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 40px;
+  height: 32px;
+  background: url("../img/safety-icons.png") no-repeat 0 0;
+  zoom: 1;
+}
+
+.safety-section-intro
+  .safety-intro-quiz-counter
+  .safety-scroll-down
+  span.safety-quiz-icon {
+  background-position: 0 -40px;
+}
+
+.safety-section-intro .safety-intro-quiz-counter span.safety-quiz-icon {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 40px;
+  height: 32px;
+  background: url("../img/safety-icons.png") no-repeat 0 0;
+  zoom: 1;
+}
+
+.safety-section-intro .safety-intro-quiz-counter {
+  position: absolute;
+  top: 645px;
+  width: 100%;
+  font-family: "proxima_nova_bold", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 32px;
+  color: #97acb8;
+}
+
+.safety-section-1 h2.safety-section-title,
+.safety-section-2 h2.safety-section-title,
+.safety-section-3 h2.safety-section-title,
+.safety-section-4 h2.safety-section-title,
+.safety-section-partners h2.safety-section-title {
+  padding-top: 35px;
+}
+.safety-section h1.safety-section-title,
+.safety-section h2.safety-section-title {
+  padding-bottom: 3px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+  color: #0052af;
+  font-family: "proxima_nova_bold", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 1;
+}
+.node-type-online-safety h1,
+.node-type-online-safety h2,
+.node-type-online-safety h3,
+.node-type-online-safety h4,
+.node-type-online-safety h5 {
+  letter-spacing: 0.01em;
+}
+
+.safety-section .safety-section-text {
+  color: #97acb8;
+  font-size: 14px;
+  padding: 0 65px;
+}
+
+.safety-section .horizontal-tabs ul.horizontal-tabs-list {
+  background-color: transparent;
+  border: 0;
+  text-align: center;
+}
+.horizontal-tabs ul.horizontal-tabs-list {
+  display: inline-block;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  position: relative;
+  list-style: none;
+  list-style-image: none;
+  background-color: #dedede;
+  border-right: 1px solid #dedede;
+  width: 100%;
+  height: auto;
+  clear: both;
+}
+
+.safety-section-1 .section-tabs-3 .horizontal-tabs-processed .tab-1 {
+  background: url("../img/be-cool.jpg") no-repeat 100px 20px;
+}
+.safety-section-1 .section-tabs-3 .safety-tab-fieldset {
+  margin-bottom: -50px;
+  padding: 50px 60px 0 480px;
+  min-height: 250px;
+}
+
+.safety-section-1,
+.safety-section-2,
+.safety-section-3,
+.safety-section-4,
+.safety-section-partners {
+  padding-bottom: 35px;
+  background: url("../img/panel-bg.gif") no-repeat 38px bottom;
+}
+
+.safety-section-1 .safety-section-inner,
+.safety-section-2 .safety-section-inner,
+.safety-section-3 .safety-section-inner,
+.safety-section-4 .safety-section-inner,
+.safety-section-partners .safety-section-inner {
+  background: url("../img/panel-bg.gif")
+    no-repeat -926px 0;
+}
+
+.safety-section .safety-intro-wrapper {
+    background: url("../img/panel-top-gradient.png") no-repeat center bottom;
+    padding-bottom: 35px;
+}
+
+.safety-section .horizontal-tabs {
+    border: 0;
+    margin-top: -28px;
+}
+div.horizontal-tabs {
+    margin: 0 0 1em 0;
+    padding: 0;
+    border: 1px solid #ccc;
+    position: relative;
+}
+
+.safety-section .horizontal-tabs ul.horizontal-tabs-list {
+    background-color: transparent;
+    border: 0;
+    text-align: center;
+}
+.horizontal-tabs ul.horizontal-tabs-list {
+    display: inline-block;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+    list-style-image: none;
+    background-color: #dedede;
+    border-right: 1px solid #dedede;
+    width: 100%;
+    height: auto;
+    clear: both;
+}
+
+.safety-section .horizontal-tabs ul.horizontal-tabs-list li.horizontal-tab-button {
+    display: inline;
+    list-style: none;
+    border: 0;
+    float: none;
+    background-color: transparent !important;
+    margin: 0;
+    padding: 0;
+}
+.horizontal-tabs ul.horizontal-tabs-list li.selected {
+    background-color: #fff;
+    padding: 0 0 1px 0;
+}
+.horizontal-tabs ul.horizontal-tabs-list li {
+    background: #eee;
+    border-right: 1px solid #ccc;
+    padding: 1px;
+    padding-top: 0;
+    margin: 0;
+    min-width: 5em;
+    float: left;
+}
+ul li {
+    list-style: disc outside;
+    margin: 5px 0;
+}
+.node-type-online-safety h1, .node-type-online-safety h2, .node-type-online-safety h3, .node-type-online-safety h4, .node-type-online-safety h5 {
+    letter-spacing: 0.01em;
+}
+.element-invisible {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    overflow: hidden;
+    height: 1px;
+}
+
+.safety-section .section-tabs-3 .horizontal-tabs li.horizontal-tab-button.horizontal-tab-button-0.selected a {
+    background-position: 0 -60px;
+}
+.safety-section .horizontal-tabs ul.horizontal-tabs-list li.horizontal-tab-button.selected a {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #fff;
+}
+.safety-section .horizontal-tabs ul.horizontal-tabs-list li.horizontal-tab-button.processed a {
+    visibility: visible !important;
+}
+.safety-section .section-tabs-3 .horizontal-tabs li.horizontal-tab-button.horizontal-tab-button-0 a {
+    background-position: 0 0;
+}
+.safety-section .horizontal-tabs ul.horizontal-tabs-list li.horizontal-tab-button a {
+    visibility: hidden !important;
+    color: #22a4f3;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: url(http://web.archive.org/web/20170223063559im_/http://cpassets-a.akamaihd.net/sites/default/themes/club_penguin/img/safety/panel-tabs.png) no-repeat 0 0;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 46px;
+    height: 55px;
+    zoom: 1;
+}
+.safety-section .section-tabs-3 .horizontal-tabs li.horizontal-tab-button a {
+    width: 220px;
+}
+.horizontal-tabs ul.horizontal-tabs-list li a, .horizontal-tabs ul.horizontal-tabs-list li.selected a {
+    display: block;
+    text-decoration: none;
+    padding: 0.5em 0.6em 0.3em 0.6em;
+    position: relative;
+    top: 0;
+}
+.horizontal-tabs ul.horizontal-tabs-list li a {
+    display: block;
+    text-decoration: none;
+    padding: 0.5em 0.6em;
+}
+
+.safety-section .horizontal-tabs ul.horizontal-tabs-list li.horizontal-tab-button a {
+    visibility: hidden !important;
+    color: #22a4f3;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: url(http://web.archive.org/web/20170223063559im_/http://cpassets-a.akamaihd.net/sites/default/themes/club_penguin/img/safety/panel-tabs.png) no-repeat 0 0;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 46px;
+    height: 55px;
+    zoom: 1;
+}
